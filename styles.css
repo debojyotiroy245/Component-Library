@@ -15,6 +15,11 @@ hr {
     margin: 2rem 0;
 }
 
+/* spaces */
+.margin-md{
+    margin: 2rem 1rem;
+}
+
 /* container */
 .container {
     /* padding: top right bottom left */
