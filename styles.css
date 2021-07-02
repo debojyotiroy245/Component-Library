@@ -8,6 +8,10 @@ body{
     font-family: 'Montserrat', sans-serif;  
 }
 
+hr{
+    margin: 2rem 0;
+}
+
 /* container */
 .container{
     /* padding: top right bottom left */
@@ -20,7 +24,7 @@ body{
 }  
 
 /* links */
-/* look into BEM naming convention for naming classes perfectly */
+/* look into BEM naming convention for CSS */
 .link{
     text-decoration: none;
     padding: 0.5rem 1rem;
